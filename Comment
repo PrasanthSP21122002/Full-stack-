@@ -2,3 +2,6 @@ mkdir linkedin-clone
 cd linkedin-clone
 npm init -y
 npm install express mysql bcryptjs body-parser cors
+
+
+node index.js
